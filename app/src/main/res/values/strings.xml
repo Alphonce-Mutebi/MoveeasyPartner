@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MoveEasy Partner</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up_below">Sign Up below:</string>
+    <string name="username">Username</string>
+    <string name="_0712345678">0712345678</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="logout">Logout</string>
+    <string name="moveeasy">MoveEasy</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="vehicle_reg_no">Vehicle Reg. No.</string>
+    <string name="i_m_available">I\'m available</string>
+    <string name="confirm_pick_up">Confirm pick up</string>
+    <string name="john_doe">John Doe</string>
+    <string name="nairobi">Nairobi</string>
+    <string name="_0700000000">0700000000</string>
+    <string name="string_nairobi" />
+    <string name="pick_up_request">Pick up Request</string>
+    <string name="name">Name:</string>
+    <string name="amount">Amount:</string>
+    <string name="to">To:</string>
+
+    <string-array name="vehicle_types">
+        <item>Motorcycle</item>
+        <item>Pick-up</item>
+        <item>Van</item>
+        <item>3 Ton Truck</item>
+        <item>5 Ton Truck</item>
+        <item>10 Ton Truck</item>
+        <item>28 Ton Truck</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "848190070130",
+    "firebase_url": "https://moveeasy-a2a69.firebaseio.com",
+    "project_id": "moveeasy-a2a69",
+    "storage_bucket": "moveeasy-a2a69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848190070130:android:0c7c85a9bc126a236591eb",
+        "android_client_info": {
+          "package_name": "com.blume.moveeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848190070130-qtvn00rudhddkrgosjjaejm2rq629s1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blume.moveeasy",
+            "certificate_hash": "c4de1fac084b1926dd45759646aae305f10d20ef"
+          }
+        },
+        {
+          "client_id": "848190070130-tppjbogp9jpfukfvgemb57fgj8re3i1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJ6lgzEqUfmGls9vf36q_xHGigPsu2ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848190070130-tppjbogp9jpfukfvgemb57fgj8re3i1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848190070130:android:1ca357dd77620efd6591eb",
+        "android_client_info": {
+          "package_name": "com.blume.moveeasycourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848190070130-6q9ho3u3b4q5kn08cavs8j53n5lgpalr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blume.moveeasycourier",
+            "certificate_hash": "c4de1fac084b1926dd45759646aae305f10d20ef"
+          }
+        },
+        {
+          "client_id": "848190070130-tppjbogp9jpfukfvgemb57fgj8re3i1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJ6lgzEqUfmGls9vf36q_xHGigPsu2ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848190070130-tppjbogp9jpfukfvgemb57fgj8re3i1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848190070130:android:d5d47d55a784a3e26591eb",
+        "android_client_info": {
+          "package_name": "com.blume.moveeasypartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848190070130-p82aus5mbtc654ep9q9sil9aeq27amlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blume.moveeasypartner",
+            "certificate_hash": "c4de1fac084b1926dd45759646aae305f10d20ef"
+          }
+        },
+        {
+          "client_id": "848190070130-tppjbogp9jpfukfvgemb57fgj8re3i1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJ6lgzEqUfmGls9vf36q_xHGigPsu2ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848190070130-tppjbogp9jpfukfvgemb57fgj8re3i1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
